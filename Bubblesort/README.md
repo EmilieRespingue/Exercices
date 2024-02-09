@@ -8,7 +8,7 @@ Bubble Sort is a simple sorting algorithm with poor performance compared to more
 
 Javascript
 
-#Skills Demonstrated:
+# Skills Demonstrated:
 
 Understanding and implementation of sorting algorithms
 Ability to manipulate arrays and perform iteration
